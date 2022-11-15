@@ -1,6 +1,6 @@
 ##### 👋 Hi, I’m AHMED,
-##### 💻 An ICT Research Engineer specialized in Computer Vision @ IETR Lab - INSA Rennes,
-##### 📚 Hailing from a STEM background with a keen analytical eye and a goal driven spirit, 
-##### 🌱 Currently working on Deep Learning-based approaches for image and video coding,
+##### 💻 ICT Engineer specialized in AI Video Coding and Computer Vision at IETR Lab, INSA Rennes. 
+##### 📚 Hailing from STEM background with validated experience in data science and artificial intelligence projects for research and industrial applications. 
+##### 🌱 Currently working on learned image and video coding approaches.
 ##### 🤝 Looking to collaborate on healthcare projects.
 ##### 📫 How to reach me: https://www.linkedin.com/in/ahmed-ghorbel97/
