@@ -1,6 +1,6 @@
 ##### 👋 Hi, I’m AHMED,
-##### 💻 ICT Engineer specialized in AI Video Coding and Computer Vision at IETR Lab, INSA Rennes. 
+##### 💻 AI research scientist specialized in computer vision at FX-Conseil - école polytechnique, FRANCE. 
 ##### 📚 Hailing from STEM background with validated experience in data science and artificial intelligence projects for research and industrial applications. 
-##### 🌱 Currently working on learned image and video coding approaches.
+##### 🌱 Currently working on denoising diffusion models (DDMs) for image generation.
 ##### 🤝 Looking to collaborate on healthcare projects.
 ##### 📫 How to reach me: https://www.linkedin.com/in/ahmed-ghorbel97/
