@@ -1,5 +1,9 @@
-##### 👋 Hi, I’m AHMED,
-##### 💻 Computer Vision engineer at Ecole Polytechnique (l'X), FRANCE. 
-##### 📚 Hailing from STEM background with validated experience in machine learning projects for industrial applications. 
-##### 🌱 Currently working on diffusion models for conditional image generation, and traffic simulation.
-##### 🤝 Looking to collaborate on healthcare projects.
+# 👋 Hi, I’m Ahmed
+
+💻 **Computer Vision Engineer** at Ecole Polytechnique (l'X), France.
+
+📚 **Background**: Hailing from STEM background with validated experience in applying machine learning and computer vision to industrial applications. 
+
+🌱 **Current Focus**: Currently designing and implementing diffusion models, with a focus on conditional image generation and traffic simulation.
+
+🤝 **Collaboration**: Open to collaborations on impactful projects, especially those in healthcare and other high-impact fields.
