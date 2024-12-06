@@ -1,4 +1,4 @@
-# 👋 Hi, I’m <!-- DYNAMIC_NAME -->Ahmed<!-- /DYNAMIC_NAME -->
+# 👋 Hi, I’m Ahmed
 
 💻 **Computer Vision Engineer** at Ecole Polytechnique (l'X), France.
 
