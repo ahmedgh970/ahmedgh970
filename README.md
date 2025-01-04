@@ -1,16 +1,18 @@
 # 👋 Hi, I’m Ahmed
 
-Welcome to my GitHub profile! I'm a **Computer Vision Engineer** with expertise in generative AI. Explore my repositories to see what I’ve been working on recently.
+Welcome to my GitHub profile! I'm a **Computer Vision Engineer** specializing in AI research. Explore my repositories to see what I’ve been working on recently.
 
 ---
 
 ## 🛠️ **Technologies I Work With**
-- **Programming**: Python
-- **Frameworks**: TensorFlow, PyTorch
-- **Tools**: VS-Code, PyCharm, Docker, Singularity, Git, CI/CD, AWS, GCP
-- **OS**: Linux
+- **Programming**: Python, Bash
+- **Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers/timm, TensorBoard
+- **Tools**: VS-Code, PyCharm, Docker, Singularity, Slurm, AWS, Jupyter Notebooks
+- **Version Control**: Git
+- **OS**: Linux (Ubuntu)
 - **AI Expertise**:
   - GenAI: Motion forecasting and image synthesis
+  - Model Optimization: Pruning and quantization.
   - Compression: Learning-based image and video coding
   - Healthcare: Anomaly detection and segmentation
 
