@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Computer Vision Engineer** specializing in
 
 ## 🛠️ **Technologies I Work With**
 - **Programming**: Python, Bash
-- **Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers/timm, TensorBoard
+- **Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers/timm/Diffusers, TensorBoard
 - **Tools**: VS-Code, PyCharm, Docker, Singularity, Slurm, AWS, Jupyter Notebooks
 - **Version Control**: Git
 - **OS**: Linux (Ubuntu)
