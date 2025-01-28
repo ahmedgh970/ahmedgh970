@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **Computer Vision Engineer** specializing in
 - **Version Control**: Git
 - **OS**: Linux (Ubuntu)
 - **AI Expertise**:
-  - GenAI: Motion forecasting and image synthesis
+  - GenAI: Waveform generation, motion forecasting and image synthesis
   - Model Optimization: Pruning and quantization.
   - Compression: Learning-based image and video coding
   - Healthcare: Anomaly detection and segmentation
