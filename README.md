@@ -5,12 +5,11 @@ Welcome to my GitHub profile! I'm a **AI Engineer** specializing in generative A
 ---
 
 ## 🛠️ **Technologies I Work With**
-- **IDEs**: VS-Code, Cursor
-- **Programming**: Python, Bash
-- **Frameworks & Libraries**: TensorFlow, PyTorch, LangChain, LangGraph, Hugging Face Transformers/timm/Diffusers
+- **IDEs**: VS-Code
+- **Programming**: Python
+- **Frameworks & Libraries**: TensorFlow, PyTorch, LangChain, Hugging Face Transformers/timm/Diffusers
 - **DevOps & Tools**: Docker, Singularity, SLURM, AWS
 - **Version Control**: Git
-- **CI/CD**: Github Actions, GitLab
 - **OS**: Linux (Ubuntu)
 - **AI Expertise**:
   - GenAI: Agentic RAG, Waveform generation, motion forecasting and image synthesis
