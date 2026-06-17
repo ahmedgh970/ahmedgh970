@@ -1,24 +1,41 @@
-# 👋 Hi, I’m Ahmed
+# Ahmed Ghorbel
 
-Welcome to my GitHub profile! I'm a **AI Engineer** specializing in generative AI and computer vision. Explore my repositories to see what I’ve been working on recently.
+**AI Engineer — production-grade LLM, RAG & agentic systems**
+Generative AI & Computer Vision R&D · turning research into shipped products.
 
----
+I build retrieval and agentic systems with an eval-first mindset, measurable quality, full observability, and efficient inference, not demos. My background spans generative AI (diffusion, flow matching), computer vision, and learning-based codecs, with peer-reviewed research and several years optimizing models for real deployment (pruning, quantization, KV-cache / serving).
 
-## 🛠️ **Technologies I Work With**
-- **IDEs**: VS-Code
-- **Programming**: Python
-- **Frameworks & Libraries**: TensorFlow, PyTorch, LangChain, Hugging Face Transformers/timm/Diffusers
-- **DevOps & Tools**: Docker, Singularity, SLURM, AWS
-- **Version Control**: Git
-- **OS**: Linux (Ubuntu)
-- **AI Expertise**:
-  - GenAI: Agentic RAG, Waveform generation, motion forecasting and image synthesis
-  - Compression: Learning-based image and video coding
-  - Model Optimization: Pruning and quantization.
-  - Healthcare: Anomaly detection and segmentation
+🎯 Currently focused on **RAG / LLM engineering and agentic AI**.
 
 ---
 
-## 📫 **Get in Touch**
-- **Email**: [ghorbel.ahmd@gmail.com](mailto:ghorbel.ahmd@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ahmed-ghorbel97/](#)
+## 🚀 Featured project
+
+**Production RAG & Agentic RAG — benchmarked on [FinanceBench]**
+End-to-end retrieval system built eval-first: reproducible evaluation *before* features, multi-LLM abstraction, full observability, and a dedicated inference-serving benchmark leveraging KV-cache optimization.
+`LangGraph` · `LiteLLM` · `Qdrant` · `Docling` · `Ragas` · `Langfuse` · `vLLM` · `Ollama`
+
+> 📌 *Pinned repositories below.*
+
+---
+
+## 🧰 Stack
+
+**LLM & RAG** — LangChain · LlamaIndex · LangGraph · LiteLLM · Qdrant · Docling · Ragas · Langfuse · vLLM · Ollama · Groq
+**Generative AI & CV** — PyTorch · Hugging Face (Transformers, Diffusers, `timm`) · diffusion & flow matching
+**Serving & infra** — FastAPI · Docker · AWS · SLURM · Singularity
+**Eval & observability** — Ragas · Langfuse
+**Core** — Python · Linux
+
+---
+
+## 🔬 Background
+
+R&D engineer with a clear research-to-production trajectory: Generative AI; motion forecasting, and image/video synthesis & editing. Computer Vision; learning-based image & video compression and anomaly segmentation.
+
+---
+
+## 📫 Contact
+
+- 📧 **Email** — [ghorbel.ahmd@gmail.com](mailto:ghorbel.ahmd@gmail.com)
+- 💼 **LinkedIn** — [ahmed-ghorbel97](https://www.linkedin.com/in/ahmed-ghorbel97/)
